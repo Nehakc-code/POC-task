@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Neha Chavan",
+      "email": "neha@gmail.com",
+      "contact": "9067856787",
+      "address": "Pune",
+      "id": 1
+    },
+    {
+      "name": "Khushi",
+      "email": "khushi@gmail.com",
+      "contact": "9876546789",
+      "address": "Mumbai",
+      "id": 2
+    }
+  ]
+}
